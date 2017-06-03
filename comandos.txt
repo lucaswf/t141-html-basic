@@ -1,0 +1,23 @@
+Inicializar git
+git init
+
+Ver status do git
+git status
+
+Adicionar diretorio para o git
+git add firs-html(folder)
+
+git config --global user.name ""
+git config --global user.email ""
+git config --list
+
+git -m commit "Descricao Commit"
+
+git commit --amend --no-edit --reset-author
+
+git checkout -b newcode
+git branch
+
+
+ul>li{text}*4
+ul>li*4>a{text}
