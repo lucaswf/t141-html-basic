@@ -4,4 +4,4 @@ Learning HTML by doing
 
 ## Examples
 
-1. [First HTML](fisrt-html)
+1. [First HTML](first-html)
